@@ -1,0 +1,11 @@
+{
+  "name": "alejuanito-test-npm",
+  "version": "1.0.0",
+  "description": "This is a test for a poc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Condori",
+  "license": "ISC"
+}
