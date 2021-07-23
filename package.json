@@ -1,10 +1,15 @@
 {
   "name": "alejuanito-test-npm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a test for a poc",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@newrelic/winston-enricher": "^1.0.0",
+    "newrelic": "^7.5.2",
+    "winston": "^3.3.3"
   },
   "author": "Alejandro Condori",
   "license": "ISC"
