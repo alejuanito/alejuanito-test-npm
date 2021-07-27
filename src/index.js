@@ -6,6 +6,7 @@ function testMethod(data) {
         summary: {
           event: data,
           service: data.service,
+          eventId: data.eventId
         },
       });
 }
